@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/ghkim3221/ghkim3221.svg)](http://hits.dwyl.com/ghkim3221/ghkim3221)
+
 🤔 A software engineer at LINE Plus Corporation
 
 ## 🔭 My projects
