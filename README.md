@@ -1,34 +1,18 @@
 # Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/ghkim3221/ghkim3221.svg)](http://hits.dwyl.com/ghkim3221/ghkim3221)
+<div style="text-align:center">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghkim3221%2Fghkim3221)](https://hits.seeyoufarm.com)                        
+</div>
 
-🤔 A software engineer at LINE Plus Corporation
+## Software Engineer
 
-## 🔭 My projects
-
- - [databute](https://github.com/databute): Distributed in-memory key-value store
- 
-## 👯 My contributions
-
- - [line/armeria#2675](https://github.com/line/armeria/pull/2675) Distinguish initialization and state changes of circuit breaker
- - [line/armeria#2783](https://github.com/line/armeria/pull/2783) Support java.time.Period type for `@Param` annotation
- - [line/armeria#2799](https://github.com/line/armeria/pull/2799) Support classes in `java.time` for `@Param` annotation
+ - Working at LINE Plus Corporation
 
 ## 📫 Contact me
 
-- [email me](mailto:ghkim3221@gmail.com)
-
-<!--
-**ghkim3221/ghkim3221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align:center">
+[![Gihwan Kim](https://img.shields.io/badge/-Gihwan_Kim-663399?logo=Gatsby&logoColor=white&link=https://gihwankim.com)](https://gihwankim.com)
+[![Gihwan's Blog](https://img.shields.io/badge/-Gihwan's_Blog-663399?logo=Gatsby&logoColor=white&link=https://gihwan.dev)](https://gihwan.dev)
+[![Gmail](https://img.shields.io/badge/-Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:ghkim3221@gmail.com)](mailto:ghkim3221@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghkim3221/)](https://www.linkedin.com/in/ghkim3221/)
+</div>
