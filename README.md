@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<div style="text-align:center">
+<div align="center">
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghkim3221%2Fghkim3221)](https://hits.seeyoufarm.com)                        
 
@@ -12,7 +12,7 @@
 
 ## 📫 Contact me
 
-<div style="text-align:center">
+<div align="center">
  
 [![Gihwan Kim](https://img.shields.io/badge/-Gihwan_Kim-663399?logo=Gatsby&logoColor=white&link=https://gihwankim.com)](https://gihwankim.com)
 [![Gihwan's Blog](https://img.shields.io/badge/-Gihwan's_Blog-663399?logo=Gatsby&logoColor=white&link=https://gihwan.dev)](https://gihwan.dev)
