@@ -1,6 +1,8 @@
 # Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghkim3221%2Fghkim3221)](https://hits.seeyoufarm.com)                        
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghkim3221%2Fghkim3221)](https://hits.seeyoufarm.com)
+
+![Metrics](https://github.com/ghkim3221/ghkim3221/blob/master/github-metrics.svg)
 
 ## 💻 Software Engineer
 
