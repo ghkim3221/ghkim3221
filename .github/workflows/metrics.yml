@@ -11,3 +11,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: Asia/Seoul
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
